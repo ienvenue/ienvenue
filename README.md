@@ -1,40 +1,43 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Chen Yujin (@ienvenue)
-### 欢迎来到我的主页 / Welcome to my profile
+# 陈瑜瑾 · Chen Yujin
+### @ienvenue
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vcenter=true&width=580&lines=%E5%AD%A6+AI+%E4%B8%AD%E5%AE%9E%E8%B7%B5%EF%BC%8C%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%AD%A6+AI%E3%80%82%3BLearning+AI+through+practice%2C+practicing+through+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=141414&center=true&vcenter=true&width=620&lines=%E5%AD%A6+AI+%E4%B8%AD%E5%AE%9E%E8%B7%B5%EF%BC%8C%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%AD%A6+AI%E3%80%82;Learning+AI+through+practice%2C+practicing+through+AI.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/ienvenue"><img src="https://img.shields.io/github/followers/ienvenue?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
-  <a href="mailto:chenyangjieabc@gmail.com"><img src="https://img.shields.io/badge/Email-chenyangjieabc%40gmail.com-informational?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://chenyujin.top"><img src="https://img.shields.io/badge/Website-chenyujin.top-2ea44f?style=flat-square" alt="Website"></a>
+  <a href="https://chenyujin.top"><img src="https://img.shields.io/badge/Website-chenyujin.top-141414?style=flat-square&labelColor=ffffff&color=141414" alt="Website"></a>
+  <a href="mailto:hi@chenyujin.top"><img src="https://img.shields.io/badge/Contact-hi%40chenyujin.top-141414?style=flat-square&labelColor=ffffff&color=141414" alt="Email"></a>
+  <a href="https://github.com/ienvenue"><img src="https://img.shields.io/github/followers/ienvenue?label=Followers&style=flat-square&labelColor=ffffff&color=141414" alt="Followers"></a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 关于我 / About Me
+### 00 · 人生格言与态度 / Motto & Philosophy
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 #### 🇨🇳 中文
-- 🔭 **当前专注**：现代 Web 架构、全栈系统设计与开发工具链演进。
-- 🌱 **持续探索**：AI Agent 编排框架、Cloudflare 边缘生态与高性能工程实践。
-- 💡 **技术理念**：“大道至简，行稳致远”——简洁是可靠的前提。
-- 📫 **保持联系**：欢迎通过邮件交流探讨技术或开源项目合作。
+> **不忘初心，方得始终。**  
+> **靡不有初，鲜克有终。**  
+> ——《诗经·大雅·荡》
+
+- **我的态度**：学 AI 中实践，实践中学 AI。  
+- **设计哲学**：克制、纯粹，大道至简。
 
 </td>
 <td width="50%" valign="top">
 
 #### 🇬🇧 English
-- 🔭 **Focus**: Modern Web Architecture, Full-stack Engineering, and Developer Tools.
-- 🌱 **Learning**: Exploring AI agent orchestration, Cloudflare ecosystem, and performance engineering.
-- 💡 **Philosophy**: "Simplicity is prerequisite for reliability."
-- 📫 **Reach me**: Feel free to reach out via email for tech discussions or collaboration.
+> **"Every beginning has an end, but few are able to preserve it to the last."**  
+> — *Classic of Poetry*
+
+- **Attitude**: Learning AI through practice, practicing through AI.  
+- **Design Philosophy**: Restraint, purity, and simplicity.
 
 </td>
 </tr>
@@ -42,42 +45,81 @@
 
 ---
 
-### 🛠️ 技术栈与工具 / Tech Stack & Tools
+### 01 · 在做 / Now Building
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-| 领域 / Domain | 技术与框架 / Technologies & Frameworks |
-| :--- | :--- |
-| **编程语言 / Languages** | `JavaScript` `TypeScript` `PHP` `Python` `Shell` |
-| **后端架构 / Backend** | `Node.js` `Laravel` `Express` `RESTful APIs` |
-| **前端开发 / Frontend** | `HTML5` `CSS3` `Vue.js` `React` `TailwindCSS` |
-| **运维与云服务 / DevOps & Cloud** | `Docker` `Nginx` `Cloudflare Pages` `GitHub Actions` `Git` |
+### [Prompt HUD](https://chenyujin.top/prompt-hud/)
+> **按 `⌃/`，常用 Prompt 出现在光标旁边。我写需求，AI 写代码。**  
+> *Press `⌃/` to pop up frequent prompts right next to your text cursor.*
 
-</div>
+- 帮你存好常用的 Prompt 和上下文，随时一键调出来用。  
+- 沉浸式融入开发环境，减少上下文切换成本。  
+- 预约内测 / 访问官网：[chenyujin.top/prompt-hud](https://chenyujin.top/prompt-hud/)
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+```
+┌────────────────────────┐
+│  Prompt HUD        ⌃/  │
+├────────────────────────┤
+│ > 先复述我的目标       │
+│ > 找出我不知道自己不… │
+│ > 从第一性原理重新推导 │
+└────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub 数据统计 / GitHub Metrics
+### 02 · 在用 / Now Using
+
+### [Prompt Lib](https://chenyujin.top/prompt-lib/)
+定期更新互联网最新的精选 Prompt，沉淀高阶思考框架：
+
+| 序号 / No. | 精选 Prompt / Curated Prompts | 核心逻辑 / Rationale |
+| :---: | :--- | :--- |
+| **01** | **先复述我的目标** | 避免偏航，先确认目标与试图解决的实质问题。 |
+| **02** | **找出我不知道自己不知道的** | 突破认知盲区，挖掘未被陈述的隐性约束。 |
+| **03** | **从第一性原理重新推导** | 穿透表象与成规，从物理与逻辑基础重新构建解法。 |
+
+*在个人网站浏览完整 Prompt 库：[chenyujin.top/prompt-lib](https://chenyujin.top/prompt-lib/)*
+
+---
+
+### 03 · 数据与动态 / Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ienvenue&show_icons=true&theme=radical&count_private=true&hide_border=true" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ienvenue&layout=compact&theme=radical&hide_border=true" height="155" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ienvenue&show_icons=true&theme=graywhite&hide_border=true&title_color=141414&text_color=5f5f5f&icon_color=141414" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ienvenue&layout=compact&theme=graywhite&hide_border=true&title_color=141414&text_color=5f5f5f" height="150" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ienvenue&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ienvenue&theme=graywhite&hide_border=true&stroke=141414&background=ffffff&ring=141414&fire=141414&currStreakLabel=141414" alt="Streak Stats" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-### 🐍 活跃动态 / Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ienvenue/ienvenue/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<span style="font-size: 13px; color: #5f5f5f;">
+  © 2026 陈瑜瑾 · <a href="mailto:hi@chenyujin.top" style="color: #141414; text-decoration: none;">hi@chenyujin.top</a> · <a href="https://chenyujin.top" style="color: #141414; text-decoration: none;">chenyujin.top</a>
+</span>
+
 </div>
