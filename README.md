@@ -49,7 +49,7 @@
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 ### [Prompt HUD](https://chenyujin.top/prompt-hud/)
 > **按 `⌃/`，常用 Prompt 出现在光标旁边。我写需求，AI 写代码。**  
@@ -60,17 +60,11 @@
 - 预约内测 / 访问官网：[chenyujin.top/prompt-hud](https://chenyujin.top/prompt-hud/)
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-```
-┌────────────────────────┐
-│  Prompt HUD        ⌃/  │
-├────────────────────────┤
-│ > 先复述我的目标       │
-│ > 找出我不知道自己不… │
-│ > 从第一性原理重新推导 │
-└────────────────────────┘
-```
+<a href="https://chenyujin.top/prompt-hud/">
+  <img src="assets/demo.png" alt="Prompt HUD Demo" width="100%" style="border: 1px solid #dcdcdc; border-radius: 6px;">
+</a>
 
 </td>
 </tr>
