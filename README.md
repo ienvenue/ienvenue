@@ -91,11 +91,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ienvenue&show_icons=true&theme=graywhite&hide_border=true&title_color=141414&text_color=5f5f5f&icon_color=141414" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ienvenue&layout=compact&theme=graywhite&hide_border=true&title_color=141414&text_color=5f5f5f" height="150" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ienvenue&theme=graywhite&hide_border=true&stroke=141414&background=ffffff&ring=141414&fire=141414&currStreakLabel=141414" alt="Streak Stats" />
 
 <br/><br/>
