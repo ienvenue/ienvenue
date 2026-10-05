@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Yancy Chan (@ienvenue)
+# 👨‍💻 Hi there, I'm Chen Yujin (@ienvenue)
 ### 欢迎来到我的主页 / Welcome to my profile
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vcenter=true&width=550&lines=Full-Stack+Engineer+%7C+Open-Source+Enthusiast;全栈开发工程师+%7C+开源技术探索者;Building+clean%2C+reliable+software;专注现代+Web+架构与高效工程化体系)](https://git.io/typing-svg)
